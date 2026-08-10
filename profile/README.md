@@ -3,7 +3,7 @@
 <!-- Images use relative paths — works once assets/ is in the same repo -->
 
 <p align="center">
-  <img src="../assets/linkedin-banner.jpg" alt="Novaremix — Engineering the decentralized economy" width="100%" />
+  <img src="../assets/linkedin-banner.png" alt="Novaremix — Engineering the decentralized economy" width="100%" />
 </p>
 
 <h1 align="center">Novaremix</h1>
