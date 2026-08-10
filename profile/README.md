@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://novaremix.com"><img src="https://img.shields.io/badge/website-novaremix.com-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/company/novaremix-tech-ca"><img src="https://img.shields.io/badge/LinkedIn-Novaremix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/company/novaremix"><img src="https://img.shields.io/badge/LinkedIn-Novaremix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:talent@novaremix.com"><img src="https://img.shields.io/badge/email-talent@novaremix.com-8b5cf6?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
