@@ -1,5 +1,5 @@
 <!-- <p align="center"><img src="../assets/linkedin-banner.png" alt="MexoForge" width="100%"/></p> -->
-<p align="center"><img src="../assets/linkedin-logo.png" alt="MexoForge logo" width="120"/></p>
+<p align="center"><img src="../linkedin-logo.png" alt="MexoForge logo" width="120"/></p>
 <h1 align="center">MexoForge</h1>
 <p align="center"><strong>Forging on-chain infrastructure</strong></p>
 <p align="center"><em>Blockchain infrastructure forge · San Francisco, CA</em></p>
